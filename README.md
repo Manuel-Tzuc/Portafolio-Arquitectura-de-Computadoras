@@ -18,9 +18,6 @@
 
 **Periodo:** 2026B
 
-
----
-
 El objetivo de este portafolio es recopilar y organizar los trabajos realizados durante este parcial mediante evidencias mostrando los conocimientos y aprendizajes obtenidos en cada una de las actividades así como una reflexión de aprendizaje y un análisis de errores y propuesta de mejora para cada una.
 
 
