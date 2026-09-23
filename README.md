@@ -21,6 +21,7 @@
 ---
 ## Índice
 [Introducción](intro) 
+
 [Objetivo](objetivo)
 1. [Prueba Diagnóstica](#1-prueba-diagnóstica)
 2. [Programming the IAS](#2-programming-the-ias)
@@ -29,7 +30,9 @@
 5. [Análisis de la Ley de Moore](#5-análisis-de-la-ley-de-moore)
 6. [Reporte de práctica](#6-reporte-de-práctica)
 [Reflexión final](reflexión-final)
+
 [Conclusión](conclusión)
+
 ---
 ## Introducción
 El presente portafolio de evidencias reúne las diferentes actividades que realicé durante la primera unidad de la asignatura de Arquitectura de Computadoras. A lo largo de esta unidad trabajé con diferentes temas relacionados con la forma en que funcionan y se organizan las computadoras, comenzando con una prueba diagnóstica para identificar mis conocimientos previos y continuando con actividades relacionadas con la arquitectura IAS, las arquitecturas de cómputo, la Ley de Moore y el funcionamiento de una memoria RAM estática 6116.
