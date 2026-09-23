@@ -20,18 +20,18 @@
 
 ---
 ## Índice
-[Introducción](intro) 
+[Introducción](#intro) 
 
-[Objetivo](objetivo)
+[Objetivo](#objetivo)
 1. [Prueba Diagnóstica](#1-prueba-diagnóstica)
 2. [Programming the IAS](#2-programming-the-ias)
 3. [IAS extra-credit question (due next class)](#3-ias-extra-credit-question-due-next-class)
 4. [Mapa conceptual de las arquitecturas de cómputo](#4-mapa-conceptual-de-las-arquitecturas-de-cómputo)
 5. [Análisis de la Ley de Moore](#5-análisis-de-la-ley-de-moore)
 6. [Reporte de práctica](#6-reporte-de-práctica)
-[Reflexión final](reflexión-final)
+[Reflexión final](#reflexión-final)
 
-[Conclusión](conclusión)
+[Conclusión](#conclusión)
 
 ---
 ## Introducción
