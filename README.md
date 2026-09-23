@@ -26,3 +26,6 @@
 En este portafolio se presentan las actividades, prácticas, investigaciones y evidencias realizadas durante la asignatura de **Arquitectura de Computadoras**.
 
 El objetivo de este portafolio es recopilar y organizar los trabajos realizados durante este parcial, mostrando los conocimientos y aprendizajes obtenidos en cada una de las actividades.
+
+
+---
