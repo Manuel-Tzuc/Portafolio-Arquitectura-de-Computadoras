@@ -83,7 +83,7 @@ En esta actividad apliqué la teoría de funcionamiento explicada por el profeso
 Durante la actividad tuve algunas dificultades para comprender correctamente las instrucciones y el funcionamiento de la arquitectura IAS. Para mejorar, considero que necesito practicar más con los ejercicios y revisar paso a paso cómo se ejecuta cada instrucción. Practicar me ayudaría a hacerlo más rápido ya que tardé en hacerlos, debido a que me daba miedo escribir el código de operación de manera errónea o bien usar la incorrecta.
 
 ---
----
+
 
 ## 3. IAS extra-credit question (due next class)
 
