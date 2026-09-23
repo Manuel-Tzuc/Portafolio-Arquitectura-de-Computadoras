@@ -32,7 +32,6 @@ El objetivo de este portafolio es recopilar y organizar los trabajos realizados 
 
 ---
 
----
 
 ## 1. Prueba Diagnóstica
 
