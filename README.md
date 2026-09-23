@@ -18,20 +18,35 @@
 
 **Periodo:** 2026B
 
-El objetivo de este portafolio es recopilar y organizar los trabajos realizados durante este parcial mediante evidencias mostrando los conocimientos y aprendizajes obtenidos en cada una de las actividades así como una reflexión de aprendizaje y un análisis de errores y propuesta de mejora para cada una.
-
 ---
 ## Índice
-
+[Introducción](intro) 
+[Objetivo](objetivo)
 1. [Prueba Diagnóstica](#1-prueba-diagnóstica)
 2. [Programming the IAS](#2-programming-the-ias)
 3. [IAS extra-credit question (due next class)](#3-ias-extra-credit-question-due-next-class)
 4. [Mapa conceptual de las arquitecturas de cómputo](#4-mapa-conceptual-de-las-arquitecturas-de-cómputo)
 5. [Análisis de la Ley de Moore](#5-análisis-de-la-ley-de-moore)
 6. [Reporte de práctica](#6-reporte-de-práctica)
+[Reflexión final](reflexión-final)
+[Conclusión](conclusión)
+---
+## Introducción
+El presente portafolio de evidencias reúne las diferentes actividades que realicé durante la primera unidad de la asignatura de Arquitectura de Computadoras. A lo largo de esta unidad trabajé con diferentes temas relacionados con la forma en que funcionan y se organizan las computadoras, comenzando con una prueba diagnóstica para identificar mis conocimientos previos y continuando con actividades relacionadas con la arquitectura IAS, las arquitecturas de cómputo, la Ley de Moore y el funcionamiento de una memoria RAM estática 6116.
+
+Cada una de las actividades me permitió aprender de una manera diferente. Algunas fueron principalmente de investigación y análisis, mientras que otras me ayudaron a aplicar lo aprendido mediante ejercicios o una práctica física. Por ejemplo, al trabajar con la arquitectura IAS pude conocer mejor la estructura de sus instrucciones y la forma en que se almacenan en memoria. También, mediante el mapa conceptual, pude organizar y relacionar las características de diferentes arquitecturas de cómputo. Por otra parte, el análisis de la Ley de Moore me permitió conocer mejor la evolución de los procesadores y, finalmente, la práctica con la memoria RAM 6116 me permitió observar de manera más directa cómo se realizan operaciones de escritura y lectura de datos.
+
+Además de las evidencias de cada actividad, en este portafolio se incluyen reflexiones sobre los aprendizajes obtenidos y un análisis de los errores o dificultades que se presentaron. Esto permite no solo mostrar los trabajos realizados, sino también reconocer qué aspectos comprendí mejor y cuáles necesito seguir practicando. De esta manera, el portafolio representa el trabajo realizado durante la unidad y el aprendizaje que fui obteniendo a lo largo de las actividades.
 
 ---
+## Objetivo
+El objetivo de este portafolio es recopilar y presentar de manera organizada las actividades realizadas durante la primera unidad de la asignatura de Arquitectura de Computadoras, mostrando los conocimientos y aprendizajes que fui adquiriendo durante el desarrollo de cada una.
 
+También se busca reflejar el proceso que seguí para comprender los diferentes temas vistos en clase, desde el reconocimiento de mis conocimientos previos mediante la prueba diagnóstica, hasta la realización de actividades relacionadas con la arquitectura IAS, las arquitecturas de cómputo, la Ley de Moore y la memoria RAM estática 6116. A través de estas actividades pude relacionar algunos conceptos teóricos con ejercicios y situaciones prácticas.
+
+Otro de los objetivos es identificar las dificultades que se presentaron durante el desarrollo de los trabajos y analizar qué puedo hacer para mejorar. De esta forma, el portafolio no solo sirve como una recopilación de evidencias, sino también como una manera de reflexionar sobre mi propio aprendizaje y reconocer los temas que necesito seguir reforzando mediante la práctica y el estudio.
+
+---
 
 ## 1. Prueba Diagnóstica
 
@@ -197,6 +212,27 @@ Durante el armado del circuito todo marchó bien sin embargo al probarlo no func
 
 Otro detalle fue que al pasar a mostrar por primera vez su funcionamiento dudé al explicar pese a que estaba bien mi explicación y el profesor me indicó volverlo a hacer y ya la segunda vez no dudé y sacamos los puntos completos en la entrega final.
 
+---
+## Reflexión  final
+Al finalizar esta unidad considero que pude aprender y comprender mejor varios conceptos relacionados con la Arquitectura de Computadoras. Al principio, la prueba diagnóstica me permitió identificar qué conocimientos ya tenía y cuáles necesitaba reforzar. Esto fue útil porque pude reconocer desde el inicio algunos temas en los que tenía dificultades y posteriormente trabajar en ellos mediante las demás actividades.
+
+Uno de los temas que más me ayudó a comprender el funcionamiento de una computadora fue la arquitectura IAS. Al realizar los ejercicios pude entender que las instrucciones tienen una estructura específica y que una palabra de memoria de 40 bits puede contener dos instrucciones de 20 bits. También comprendí mejor la función del código de operación y de las direcciones de memoria. Aunque al principio tuve algunas dificultades y tardaba en realizar los ejercicios por miedo a equivocarme con el código de operación, la práctica me ayudó a entender mejor el procedimiento y a hacerlo con mayor seguridad.
+
+El mapa conceptual también fue importante porque me ayudó a organizar la información sobre las diferentes arquitecturas de cómputo y a relacionar sus características. Por otro lado, el análisis de la Ley de Moore me permitió comprender mejor cómo han evolucionado los procesadores y cómo el aumento de transistores ha permitido mejorar las capacidades de los dispositivos. Además, pude darme cuenta de que todavía puedo profundizar más en algunos aspectos, como las limitaciones físicas relacionadas con esta evolución.
+
+La práctica con la memoria RAM estática 6116 fue diferente porque pude llevar parte de lo aprendido a un circuito físico. Al realizar las operaciones de escritura y lectura pude observar de una manera más directa cómo se almacenan y recuperan datos mediante diferentes direcciones de memoria. Aunque tuvimos un problema con algunos componentes que aparentemente estaban dañados, esto también me permitió comprender la importancia de revisar el funcionamiento de los materiales y no asumir que un circuito está mal armado solamente porque no funciona.
+
+Esta unidad me ayudó no solamente a aprender nuevos conceptos, sino también a reconocer la importancia de practicar y revisar mis errores. Considero que todavía tengo aspectos que mejorar, pero las actividades realizadas me dieron una mejor base para continuar aprendiendo sobre la arquitectura y el funcionamiento de las computadoras.
+
+---
+## Conclusión 
+En conclusión, las actividades realizadas durante la primera unidad me permitieron tener una mejor comprensión sobre diferentes aspectos de la Arquitectura de Computadoras. A través de la prueba diagnóstica, los ejercicios de la arquitectura IAS, el mapa conceptual, el análisis de la Ley de Moore y la práctica con la memoria RAM 6116, pude conocer y reforzar diferentes conceptos relacionados con la forma en que se organizan, procesan y almacenan los datos dentro de una computadora.
+
+Una de las cosas más importantes que aprendí durante esta unidad fue que no es suficiente con conocer los conceptos de manera teórica, sino que también es necesario practicar para poder comprender realmente cómo funcionan. Esto pude observarlo principalmente con la arquitectura IAS y con la práctica de la memoria RAM, ya que al realizar los ejercicios y trabajar directamente con un circuito pude entender mejor algunos de los temas vistos en clase.
+
+También pude identificar algunas dificultades que tuve durante las actividades, como la inseguridad al realizar los ejercicios de la IAS, la organización de la información en el mapa conceptual y el problema que se presentó con los componentes de la práctica. Sin embargo, estas situaciones también fueron parte de mi aprendizaje, ya que me permitieron reconocer qué aspectos debo mejorar y qué estrategias puedo utilizar para evitar cometer los mismos errores.
+
+Finalmente, considero que esta unidad me permitió obtener conocimientos que servirán como base para los siguientes temas de la asignatura. Todavía existen conceptos que necesito seguir practicando y comprendiendo con mayor profundidad, pero las actividades realizadas me ayudaron a tener una idea más clara sobre cómo funcionan algunos de los elementos que forman parte de una computadora y sobre la importancia de relacionar la teoría con la práctica.
 
 
 
