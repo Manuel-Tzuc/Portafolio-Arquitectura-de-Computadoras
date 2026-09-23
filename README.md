@@ -29,6 +29,7 @@
 4. [Mapa conceptual de las arquitecturas de cómputo](#4-mapa-conceptual-de-las-arquitecturas-de-cómputo)
 5. [Análisis de la Ley de Moore](#5-análisis-de-la-ley-de-moore)
 6. [Reporte de práctica](#6-reporte-de-práctica)
+
 [Reflexión final](#reflexión-final)
 
 [Conclusión](#conclusión)
