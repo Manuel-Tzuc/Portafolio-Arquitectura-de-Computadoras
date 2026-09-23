@@ -105,10 +105,97 @@ Esta actividad me ayudó a complementar lo que ya había visto sobre la arquitec
 En esta ocasión al ser una investigación corta no tuve situaciones adversas para realizar esta actividad.
 
 
+---
 
+## 4. Mapa conceptual de las arquitecturas de cómputo
 
+### Descripción de la actividad
 
+En esta actividad realicé un mapa conceptual sobre las diferentes arquitecturas de cómputo. El propósito fue organizar y relacionar los conceptos principales de una manera más visual para poder entender mejor las características de cada arquitectura.
 
+En el mapa conceptual incluí información sobre las arquitecturas y los elementos que las distinguen, como la forma en que se organizan y procesan las instrucciones y los datos. También pude relacionar los conceptos vistos en clase con ejemplos, lo que me ayudó a comprender mejor las diferencias entre las arquitecturas.
+
+### Evidencia fotográfica
+
+![Evidencia 1](Mapa.jpeg)
+
+![Evidencia 2](Rúbrica-1.jpeg)
+
+![Evidencia 3](Rúbrica-2.jpeg)
+
+### Reflexión de aprendizaje
+
+Realizar el mapa conceptual me ayudó a organizar mejor la información y a identificar las características principales de las arquitecturas de cómputo, sus componentes y funcionamiento. Al tener los conceptos representados de manera visual, fue más fácil relacionarlos entre sí y recordar las diferencias.
+
+### Análisis de errores y propuesta de mejora
+
+Una de las dificultades que tuve fue organizar toda la información de manera que el mapa no quedara demasiado saturado ya que al ser físico tenía que limitar su extensión. Para mejorar, considero que primero debo seleccionar los conceptos más importantes y después acomodarlos de forma ordenada, utilizando conexiones claras entre cada uno, aunque otra opción podría ser que sea digital ya que podría extenderme aún más.
+
+---
+
+## 5. Análisis de la ley de Moore
+
+### Descripción de la actividad
+
+En esta actividad realicé un análisis sobre la Ley de Moore, la cual está relacionada con el crecimiento de la cantidad de transistores que pueden integrarse en los circuitos de los procesadores. Esta idea fue propuesta por Gordon Moore y se convirtió en una referencia importante para entender cómo ha evolucionado la tecnología de los circuitos integrados.
+
+Durante la actividad analicé la forma en la que ley a lo largo de los años ha cambiado y la forma en la que los procesadores han ido aumentando su capacidad y mejorando su rendimiento gracias a los avances tecnológicos. También pude observar que la evolución de los componentes electrónicos ha permitido fabricar dispositivos cada vez más pequeños, rápidos y capaces de realizar una mayor cantidad de operaciones.
+
+Esta actividad me ayudó a relacionar la ley de Moore con la evolución de las computadoras y a comprender que el desarrollo de los procesadores ha sido muy importante para que actualmente podamos contar con dispositivos con mayor capacidad de procesamiento.
+
+### Evidencia fotográfica
+
+![Evidencia 1](Análisis-1.jpeg)
+
+![Evidencia 2](Análisis-2.jpeg)
+
+### Reflexión de aprendizaje
+
+Con esta actividad aprendí que la tecnología de los procesadores ha evolucionado constantemente y que el aumento de transistores ha permitido mejorar las capacidades de las computadoras. También comprendí que la Ley de Moore sirve como una forma de observar y explicar parte de esta evolución tecnológica.
+
+### Análisis de errores y propuesta de mejora
+
+Durante la actividad no hubieron detalles de error pero algo a mejorar en mi análisis es que tal vez pueda profundizar en las limitantes físicas que tiene esa ley.
+
+---
+
+## 6. Reporte de práctica
+
+### Descripción de la actividad
+
+En esta práctica trabajamos con una memoria RAM estática 6116 con la finalidad de conocer su funcionamiento y realizar operaciones de escritura y lectura de datos. La actividad consistió en construir un circuito en dos protoboard que permitiera introducir diferentes datos en determinadas direcciones de memoria y posteriormente leerlos para comprobar que la información se hubiera almacenado correctamente.
+
+Durante la práctica pude observar de manera más directa cómo funciona una memoria RAM y cómo se puede guardar información en una dirección específica para después recuperarla mediante una operación de lectura.
+
+### Evidencia fotográfica
+
+![Evidencia 1](1.jpeg)
+
+![Evidencia 2](2.jpeg)
+
+![Evidencia 3](3.jpeg)
+
+![Evidencia 4](4.jpeg)
+
+![Evidencia 5](5.jpeg)
+
+![Evidencia 6](6.jpeg)
+
+![Evidencia 7](Rub1.jpeg)
+
+![Evidencia 8](Rub2.jpeg)
+
+### Reflexión de aprendizaje
+
+Esta práctica me ayudó a reforzar los conocimientos que había aprendido durante las clases. Al realizarla de manera práctica pude entender mejor cómo funciona una memoria RAM y cómo se pueden almacenar y recuperar datos utilizando diferentes direcciones de memoria.
+
+También pude relacionar la teoría con un circuito físico, lo que hizo que el funcionamiento de la memoria fuera más fácil de comprender. Además, aprendí la importancia de revisar las conexiones y los datos introducidos para asegurar que las operaciones de escritura y lectura se realizaran correctamente.
+
+### Análisis de errores y propuesta de mejora
+
+Durante el armado del circuito todo marchó bien sin embargo al probarlo no funcionaba pese a que el armado era correcto y tuvimos que comprar nuevos componentes ya que llegamos a la conclusión de que estaban dañados, después de comprarlos armamos nuevamente todo.
+
+Otro detalle fue que al pasar a mostrar por primera vez su funcionamiento dudé al explicar pese a que estaba bien mi explicación y el profesor me indicó volverlo a hacer y ya la segunda vez no dudé y sacamos los puntos completos en la entrega final.
 
 
 
