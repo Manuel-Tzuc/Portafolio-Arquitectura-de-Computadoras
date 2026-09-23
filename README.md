@@ -42,7 +42,11 @@ En esta actividad se realizó una prueba diagnóstica con el propósito de ident
 
 ### Evidencia fotográfica
 
-Aquí se colocará la evidencia fotográfica de la actividad.
+![Evidencia 1](evidencias/Diag-1.jpeg)
+
+![Evidencia 2](evidencias/Diag-2.jpeg)
+
+
 
 ### Reflexión de aprendizaje
 
