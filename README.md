@@ -3,13 +3,21 @@
 ## Arquitectura de Computadoras
 
 **Nombre del alumno:** Manuel Isaias Tzuc Euan 
+
 **Asignatura:** Arquitectura de Computadoras  
+
 **Docente:** I.S.C. Gabriel Ubaldo González Cauich  
+
 **Institución:** TecNM Campus Motul 
+
 **Semestre:** 5
+
 **Grupo:** B
+
 **Unidad:** 1
+
 **Periodo:** 2026B
+
 
 ---
 
