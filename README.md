@@ -20,7 +20,7 @@
 
 ---
 ## Índice
-[Introducción](#intro) 
+[Introducción](#introdicción) 
 
 [Objetivo](#objetivo)
 1. [Prueba Diagnóstica](#1-prueba-diagnóstica)
