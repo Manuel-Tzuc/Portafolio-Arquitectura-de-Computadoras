@@ -58,8 +58,6 @@ Al realizar la prueba diagnóstica pude identificar algunos temas en los que tuv
 
 ---
 
----
-
 ## 2. Programming the IAS
 
 ### Descripción de la actividad
@@ -78,11 +76,34 @@ De esta manera, una palabra de 40 bits puede guardar dos instrucciones, y cada u
 
 ### Reflexión de aprendizaje
 
-En esta actividad aprendí un poco más sobre la forma en que funciona un procesador y cómo las instrucciones se van ejecutando para realizar una tarea. También pude comprender que las computadoras siguen instrucciones específicas y que cada una de ellas tiene una función dentro del proceso de ejecución.
+En esta actividad apliqué la teoría de funcionamiento explicada por el profesor en clase para entenderla mejor, fue muy interesante entender como funcionaba la computadora IAS la cual teniá una arquitectura que funcionaba con la arquitectura de von Neumann.
 
 ### Análisis de errores y propuesta de mejora
 
-Durante la actividad tuve algunas dificultades para comprender correctamente las instrucciones y el funcionamiento de la arquitectura IAS. Para mejorar, considero que necesito practicar más con los ejercicios y revisar paso a paso cómo se ejecuta cada instrucción. También sería útil consultar nuevamente los ejemplos vistos en clase para comprender mejor el proceso.
+Durante la actividad tuve algunas dificultades para comprender correctamente las instrucciones y el funcionamiento de la arquitectura IAS. Para mejorar, considero que necesito practicar más con los ejercicios y revisar paso a paso cómo se ejecuta cada instrucción. Practicar me ayudaría a hacerlo más rápido ya que tardé en hacerlos, debido a que me daba miedo escribir el código de operación de manera errónea o bien usar la incorrecta.
+
+---
+---
+
+## 3. IAS extra-credit question (due next class)
+
+### Descripción de la actividad
+
+En esta actividad realicé una pregunta extra relacionada con la arquitectura IAS, con la intención de reforzar lo que había aprendido sobre la forma en que trabaja esta computadora. Para resolverla tuve que investigar un poco más por mi cuenta.
+
+Al realizar esta actividad pude relacionar estos conceptos con los ejercicio anteriores y entender mejor que las instrucciones tienen una estructura específica que permite al procesador saber qué debe hacer y con qué información debe trabajar.
+
+### Evidencia fotográfica
+
+![Evidencia 1](IAS.jpeg)
+
+
+### Reflexión de aprendizaje
+
+Esta actividad me ayudó a complementar lo que ya había visto sobre la arquitectura IAS. Pude comprender mejor el motivo de las 12 direcciones de memoria.
+
+### Análisis de errores y propuesta de mejora
+En esta ocasión al ser una investigación corta no tuve situaciones adversas para realizar esta actividad.
 
 
 
