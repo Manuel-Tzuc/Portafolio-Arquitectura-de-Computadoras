@@ -306,20 +306,56 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ### Reflexión de aprendizaje
 
 ### Análisis de errores y propuesta de mejora
+
 ---
 ## 2. Ejercicios de clase 1
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
 
 ---
 ## 3. Ejercicios del capítulo 2
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
 
 ---
 ## 4. Ejercicios de clase 2
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
 
 ---
 ## 5. Presentación en equipo
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
 
 ---
 ## 6. Ejercicios del capítulo 3
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
 
 ---
 ## Reflexión final 
