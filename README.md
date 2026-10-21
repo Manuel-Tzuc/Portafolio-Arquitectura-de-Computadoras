@@ -300,7 +300,6 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ---
 ## 1. Rúbrica de la entrega del portafolio de la unidad anterior
-### Descripción de la actividad
 
 ### Evidencia fotográfica
 
@@ -313,20 +312,27 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ---
 ## 2. Ejercicios de clase 1
 ### Descripción de la actividad
+En esta práctica trabajamos con el direccionamiento por segmentos del microprocesador 8086 con la finalidad de conocer cómo se calculan las direcciones físicas de memoria. La actividad consistió en calcular la dirección inicial y final de diferentes segmentos a partir del registro CS, multiplicándolo por 10H y sumándole FFFFH, y en un caso calcular la dirección accedida con CS:IP.
 
+Durante la práctica pude observar de manera más directa cómo organiza la memoria el 8086 y cómo a partir de un valor de segmento se obtiene un rango de 64KB.
 ### Evidencia fotográfica
 
 ![Evidencia 1](dos2.jpeg)
 ![Evidencia 2](tres3.jpeg)
 
 ### Reflexión de aprendizaje
+Esta práctica me ayudó a reforzar los conocimientos que había aprendido durante las clases. Al realizar los cálculos pude entender mejor cómo funciona el direccionamiento segmentado y cómo se obtiene la dirección física real.
 
+También pude relacionar la teoría con los ejercicios, lo que hizo que el funcionamiento de los segmentos fuera más fácil de comprender. Además, aprendí la importancia de hacer bien las sumas en hexadecimal para que las direcciones salgan correctamente.
 ### Análisis de errores y propuesta de mejora
+Durante la realización de los ejercicios todo marchó bien, un detalle fue que al sumar FFFFH dudé con el acarreo, pero al volverlo a hacer con más calma ya no me equivoqué y saqué bien todos los ejercicios.
 
 ---
 ## 3. Ejercicios del capítulo 2
 ### Descripción de la actividad
+En esta práctica trabajamos con el capítulo 2 del libro The Intel Microprocessor de Barry B. Brey con la finalidad de conocer la arquitectura del microprocesador y su funcionamiento en modo real. La actividad consistió en responder las preguntas del 1 al 21 en el cuaderno.
 
+Durante la práctica contesté conceptos como qué son los registros visibles para el programador, los registros extendidos como EBX, el registro CX como contador, el propósito del IP/EIP y de los registros de segmento, y la bandera de interrupción. Después realicé los cálculos de direcciones iniciales y finales de segmentos y la ubicación de memoria direccionada con combinaciones de registros como CS:IP, DS:DI, SS:BP y DS:EAX, multiplicando el segmento por 10H y sumando el desplazamiento.
 ### Evidencia fotográfica
 
 ![Evidencia 1](cuatro4.jpeg)
@@ -339,25 +345,37 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ![Evidencia 8](once11.jpeg)
 
 ### Reflexión de aprendizaje
+Esta práctica me ayudó a reforzar los conocimientos que había aprendido durante las clases. Al realizarla de manera teórica y con ejercicios pude entender mejor cómo está conformado internamente el microprocesador, cómo funcionan sus registros y cómo se calcula una dirección física en modo real.
 
+También pude relacionar la teoría con los cálculos, lo que hizo que el direccionamiento segmentado fuera más fácil de comprender. Además, aprendí la importancia de identificar qué registro se usa como base y cuál como desplazamiento para no confundir las combinaciones.
 ### Análisis de errores y propuesta de mejora
+Durante la realización de los ejercicios todo marchó bien, sin embargo al principio dudé en algunas preguntas de banderas como la de acarreo y la de paridad, y en algunos cálculos de segmentos. Tuve que revisar de nuevo el capítulo 2 para confirmar las respuestas.
+
+Otro detalle fue que al hacer las sumas en hexadecimal me confundí con el acarreo, pero después de volver a hacer los ejercicios con más calma ya me salieron todos correctos y saqué los puntos completos en la revisión.
 
 ---
 ## 4. Ejercicios de clase 2
 ### Descripción de la actividad
+En esta práctica trabajamos con los modos de direccionamiento del microprocesador con la finalidad de conocer cómo se mueve la información entre registros y memoria. La actividad consistió en ver la diferencia entre la sintaxis Intel MOV AX,BX y AT&T y analizar varios ejemplos de instrucciones.
 
+Durante la práctica vimos los tipos de direccionamiento: de registro, inmediato MOV CH,3AH, directo MOV [1234H],AX, de registro indirecto MOV [BX],CL, de base más índice MOV [BX+SI],BP, de registro relativo MOV CL,[BX+4], de base relativa más índice MOV ARRAY[BX+SI],DX y de índice escalado MOV [EBX+2*ESI],AX. En cada uno calculamos la dirección física con DS x 10H + desplazamiento.
 ### Evidencia fotográfica
 ![Evidencia 1](doce12.jpeg)
 ![Evidencia 2](trece13.jpeg)
 
 ### Reflexión de aprendizaje
+Esta práctica me ayudó a reforzar los conocimientos que había aprendido durante las clases. Al realizar los ejemplos pude entender mejor que la instrucción MOV no borra, solo copia, y que cada modo calcula la dirección de forma diferente.
 
+También pude relacionar la teoría con los cálculos de DS x 10H + BX + SI, lo que hizo que los modos de direccionamiento fueran más fáciles de comprender. Además, aprendí a identificar cuál es el origen y cuál es el destino en cada instrucción.
 ### Análisis de errores y propuesta de mejora
+Durante la realización de los ejercicios todo marchó bien, sin embargo al principio me confundí entre el direccionamiento directo y el indirecto y en el orden de origen y destino entre Intel y AT&T.
+
+Otro detalle fue que al calcular la dirección con base más índice dudé en la suma, pero después de revisar los valores de EBX = 0300H, ESI = 0200H y DS = 1000H, lo volví a hacer con calma y ya salieron bien todos los ejemplos.
 
 ---
 ## 5. Presentación en equipo
 ### Descripción de la actividad
-
+En esta práctica trabajamos el Modo 2 - direccionamiento inmediato. Vimos que el dato viene dentro de la instrucción, no se busca en memoria. Expusimos cómo funciona, sus características y los ejemplos MOV CH, 3AH y MOV CL, 6EH. También resolvimos el feedback de por qué no se puede hacer MOV 3AH, CH y por qué sí se puede MOV CX, 6EH.
 ### Evidencia fotográfica
 
 ![Evidencia 1](1.png)
@@ -370,13 +388,14 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ![Evidencia 8](8.png)
 
 ### Reflexión de aprendizaje
-
+Entendí que el inmediato es el más simple y rápido porque el valor es constante y ya viene en la instrucción. Con los ejemplos vi cómo el dato pasa directo al registro.
 ### Análisis de errores y propuesta de mejora
+Al principio me confundí con los tamaños de 8 y 16 bits y con la explicación en inglés. Lo mejoramos repasando la presentación varias veces con el equipo.
 
 ---
 ## 6. Ejercicios del capítulo 3
 ### Descripción de la actividad
-
+En esta práctica trabajamos con el capítulo 3 - Modos de direccionamiento con la finalidad de conocer cómo se mueven los datos en el microprocesador. La actividad consistió en realizar los ejercicios del 1 al 35 del libro de Brey en el cuaderno.Durante la práctica vimos qué hace la instrucción MOV, los registros de 8, 16, 32 y 64 bits y los de segmento, y qué instrucciones están mal como MOV BL,CX y MOV DS,SS. Después calculamos direcciones físicas en modo real con la fórmula DS x 10H + desplazamiento, con ejercicios como MOV AL,[1234H], MOV [BX+SI],BP y con índice escalado MOV ECX,[EAX+EBX] y MOV [EAX+2*EBX],CL.
 ### Evidencia fotográfica
 ![Evidencia 1](catorce14.jpeg)
 ![Evidencia 2](quince15.jpeg)
@@ -391,11 +410,20 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 
 ### Reflexión de aprendizaje
+Esta práctica me ayudó a reforzar los conocimientos que había aprendido durante las clases. Al realizarla de manera práctica pude entender mejor cómo funcionan los diferentes modos de direccionamiento y cómo se obtiene la dirección real de memoria.
 
+También pude relacionar la teoría con los cálculos, lo que hizo que fuera más fácil comprender el uso de BYTE PTR, WORD PTR y los corchetes para direccionamiento indirecto.
 ### Análisis de errores y propuesta de mejora
+Durante la realización de los ejercicios todo marchó bien sin embargo al principio me confundí entre el direccionamiento directo e indirecto y entre DATA y OFFSET DATA.Otro detalle fue que al hacer las sumas con DS x 10H + BX + SI me equivoqué en hexadecimal, pero después de volver a hacerlo con más calma ya salieron bien todos los ejercicios.
 
 ---
 ## Reflexión final 
+A lo largo de las actividades realizadas, pude reforzar mis conocimientos sobre el funcionamiento del microprocesador, su arquitectura y los diferentes modos de direccionamiento. Mediante los ejercicios de clase, las preguntas de los capítulos del libro y la presentación en equipo, comprendí mejor cómo funcionan los registros, cómo se calcula una dirección física de memoria y cómo se utilizan las instrucciones para mover información entre registros y memoria. También aprendí a identificar las diferencias entre los tipos de direccionamiento y a reconocer las características de instrucciones como MOV.
+
+Durante las prácticas tuve algunas dificultades, principalmente al realizar operaciones en hexadecimal, identificar el origen y el destino de las instrucciones y diferenciar algunos modos de direccionamiento. Sin embargo, al revisar el material, repetir los ejercicios y trabajar con mis compañeros, pude aclarar mis dudas y mejorar mis resultados. Estas experiencias me enseñaron que es importante tener paciencia, prestar atención a los detalles y repasar los temas cuando algo no queda claro. Considero que todas estas actividades fueron importantes para mi aprendizaje, ya que me permitieron relacionar los conocimientos teóricos con ejemplos prácticos y desarrollar una mejor comprensión del funcionamiento interno del microprocesador.
 
 ---
 ## Conclusión
+En conclusión, las actividades realizadas me permitieron comprender los conceptos fundamentales de la arquitectura del microprocesador y la manera en que se gestionan los datos mediante los registros, los segmentos de memoria y los diferentes modos de direccionamiento. Aprendí que para obtener resultados correctos es necesario conocer la función de cada registro, respetar los tamaños de los datos, identificar correctamente los operandos y realizar con cuidado los cálculos de direcciones físicas. Asimismo, comprendí la importancia de las instrucciones en lenguaje ensamblador y de conocer sus reglas para evitar errores al utilizarlas.
+
+Finalmente, considero que los conocimientos adquiridos durante estas prácticas son una base importante para continuar aprendiendo sobre la organización y el funcionamiento de los microprocesadores. Aunque algunos ejercicios representaron dificultades al principio, la práctica constante y la revisión de los contenidos me ayudaron a resolverlas y a sentirme más seguro al realizar los procedimientos. Por ello, considero que las actividades cumplieron su propósito de fortalecer mi aprendizaje y me motivan a seguir mejorando mis habilidades en el área de arquitectura de computadoras y lenguaje ensamblador.
