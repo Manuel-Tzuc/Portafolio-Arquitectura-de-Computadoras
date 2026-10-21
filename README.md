@@ -15,6 +15,7 @@
 **Grupo:** B
 
 **Periodo:** 2026B
+
 ---
 # PORTAFOLIO DE EVIDENCIAS
 
@@ -303,6 +304,8 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ### Evidencia fotográfica
 
+![Evidencia 1](uno1.jpeg)
+
 ### Reflexión de aprendizaje
 
 ### Análisis de errores y propuesta de mejora
@@ -312,6 +315,9 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ### Descripción de la actividad
 
 ### Evidencia fotográfica
+
+![Evidencia 1](dos2.jpeg)
+![Evidencia 2](tres3.jpeg)
 
 ### Reflexión de aprendizaje
 
@@ -323,6 +329,15 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ### Evidencia fotográfica
 
+![Evidencia 1](cuatro4.jpeg)
+![Evidencia 2](cinco5.jpeg)
+![Evidencia 3](seis6.jpeg)
+![Evidencia 4](siete7.jpeg)
+![Evidencia 5](ocho8.jpeg)
+![Evidencia 6](nueve9.jpeg)
+![Evidencia 7](diez10.jpeg)
+![Evidencia 8](once11.jpeg)
+
 ### Reflexión de aprendizaje
 
 ### Análisis de errores y propuesta de mejora
@@ -332,6 +347,8 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ### Descripción de la actividad
 
 ### Evidencia fotográfica
+![Evidencia 1](doce12.jpeg)
+![Evidencia 2](trece13.jpeg)
 
 ### Reflexión de aprendizaje
 
@@ -343,6 +360,15 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ### Evidencia fotográfica
 
+![Evidencia 1](1.png)
+![Evidencia 2](2.png)
+![Evidencia 3](3.png)
+![Evidencia 4](4.png)
+![Evidencia 5](5.png)
+![Evidencia 6](6.png)
+![Evidencia 7](7.png)
+![Evidencia 8](8.png)
+
 ### Reflexión de aprendizaje
 
 ### Análisis de errores y propuesta de mejora
@@ -352,6 +378,17 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 ### Descripción de la actividad
 
 ### Evidencia fotográfica
+![Evidencia 1](catorce14.jpeg)
+![Evidencia 2](quince15.jpeg)
+![Evidencia 3](dieciséis16.jpeg)
+![Evidencia 4](diecisiete17.jpeg)
+![Evidencia 5](dieciocho18.jpeg)
+![Evidencia 6](diecinueve19.jpeg)
+![Evidencia 7](veinte20.jpeg)
+![Evidencia 8](veintiuno21.jpeg)
+![Evidencia 9](veintidos22.jpeg)
+![Evidencia 10](veintitres23.jpeg)
+
 
 ### Reflexión de aprendizaje
 
