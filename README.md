@@ -1,3 +1,21 @@
+# PORTAFOLIO GENERAL DE EVIDENCIAS
+
+## Arquitectura de Computadoras
+
+**Nombre del alumno:** Manuel Isaias Tzuc Euan 
+
+**Asignatura:** Arquitectura de Computadoras  
+
+**Docente:** I.S.C. Gabriel Ubaldo González Cauich  
+
+**Institución:** TecNM Campus Motul 
+
+**Semestre:** 5
+
+**Grupo:** B
+
+**Periodo:** 2026B
+---
 # PORTAFOLIO DE EVIDENCIAS
 
 ## Arquitectura de Computadoras
@@ -236,5 +254,75 @@ También pude identificar algunas dificultades que tuve durante las actividades,
 
 Para terminar considero que esta unidad me permitió obtener conocimientos que servirán como base para los siguientes temas de la asignatura. Todavía existen conceptos que necesito seguir practicando y comprendiendo con mayor profundidad, pero las actividades realizadas me ayudaron a tener una idea más clara sobre cómo funcionan algunos de los elementos que forman parte de una computadora y sobre la importancia de relacionar la teoría con la práctica.
 
+---
+# PORTAFOLIO DE EVIDENCIAS
 
+## Arquitectura de Computadoras
 
+**Nombre del alumno:** Manuel Isaias Tzuc Euan 
+
+**Asignatura:** Arquitectura de Computadoras  
+
+**Docente:** I.S.C. Gabriel Ubaldo González Cauich  
+
+**Institución:** TecNM Campus Motul 
+
+**Semestre:** 5
+
+**Grupo:** B
+
+**Unidad:** 2
+
+**Periodo:** 2026B
+
+---
+## Índice
+[Introducción](#introdicción) 
+
+[Objetivo](#objetivo)
+1. [Rúbrica de la entrega del portafolio de la unidad anterior](#1-rúbrica-portafolio)
+2. [Ejercicios de clase 1](#2-ejercicios-clase-1)
+3. [Ejercicios del capítulo 2](#3-ejercicios-capítulo-2)
+4. [Ejercicios de clase 2](#4-ejercicios-clase-2)
+5. [Presentación en equipo](#5-presentación-equipo)
+6. [Ejercicios del capítulo 3](#6-ejercicios-capítulo-3)
+
+[Reflexión final](#reflexión-final)
+
+[Conclusión](#conclusión)
+
+---
+## Introducción
+
+---
+## Objetivo
+
+---
+## 1. Rúbrica de la entrega del portafolio de la unidad anterior
+### Descripción de la actividad
+
+### Evidencia fotográfica
+
+### Reflexión de aprendizaje
+
+### Análisis de errores y propuesta de mejora
+---
+## 2. Ejercicios de clase 1
+
+---
+## 3. Ejercicios del capítulo 2
+
+---
+## 4. Ejercicios de clase 2
+
+---
+## 5. Presentación en equipo
+
+---
+## 6. Ejercicios del capítulo 3
+
+---
+## Reflexión final 
+
+---
+## Conclusión
