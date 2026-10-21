@@ -294,9 +294,13 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ---
 ## Introducción
+En este portafolio de evidencias se presentan las actividades realizadas durante las clases y los ejercicios de los capítulos 2 y 3 del libro The Intel Microprocessors, relacionados con la arquitectura y el funcionamiento del microprocesador, principalmente el 8086, así como con los registros, el direccionamiento de memoria y las instrucciones en lenguaje ensamblador. A través de estas actividades, se abordaron conceptos importantes para comprender cómo se organiza la memoria, cómo se calculan las direcciones físicas y de qué manera se transfieren los datos entre los registros y las diferentes ubicaciones de memoria.
+
+Asimismo, se incluyen ejercicios realizados en el cuaderno, evidencias fotográficas y una presentación en equipo sobre el direccionamiento inmediato. Estas actividades permitieron reforzar los conocimientos teóricos mediante la resolución de problemas y el análisis de diferentes instrucciones, lo que ayudó a comprender mejor los procedimientos utilizados por el microprocesador. De esta manera, el portafolio reúne los trabajos realizados y muestra el aprendizaje adquirido, las dificultades que se presentaron y la forma en que se resolvieron durante el desarrollo de las prácticas.
 
 ---
 ## Objetivo
+Comprender la arquitectura y el funcionamiento del microprocesador, mediante el estudio de sus registros, los segmentos de memoria, el cálculo de direcciones físicas y los diferentes modos de direccionamiento, con la finalidad de identificar cómo se almacenan, localizan y transfieren los datos mediante instrucciones en lenguaje ensamblador. Además, reforzar los conocimientos teóricos a través de ejercicios prácticos, actividades de clase y trabajo en equipo, desarrollando habilidades para resolver problemas, identificar errores y aplicar correctamente los conceptos relacionados con la arquitectura de computadoras.
 
 ---
 ## 1. Rúbrica de la entrega del portafolio de la unidad anterior
