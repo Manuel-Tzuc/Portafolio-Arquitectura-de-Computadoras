@@ -305,10 +305,6 @@ Para terminar considero que esta unidad me permitió obtener conocimientos que s
 
 ![Evidencia 1](uno1.jpeg)
 
-### Reflexión de aprendizaje
-
-### Análisis de errores y propuesta de mejora
-
 ---
 ## 2. Ejercicios de clase 1
 ### Descripción de la actividad
