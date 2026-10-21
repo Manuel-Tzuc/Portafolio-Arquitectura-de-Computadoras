@@ -410,7 +410,9 @@ Esta práctica me ayudó a reforzar los conocimientos que había aprendido duran
 
 También pude relacionar la teoría con los cálculos, lo que hizo que fuera más fácil comprender el uso de BYTE PTR, WORD PTR y los corchetes para direccionamiento indirecto.
 ### Análisis de errores y propuesta de mejora
-Durante la realización de los ejercicios todo marchó bien sin embargo al principio me confundí entre el direccionamiento directo e indirecto y entre DATA y OFFSET DATA.Otro detalle fue que al hacer las sumas con DS x 10H + BX + SI me equivoqué en hexadecimal, pero después de volver a hacerlo con más calma ya salieron bien todos los ejercicios.
+Durante la realización de los ejercicios todo marchó bien sin embargo al principio me confundí entre el direccionamiento directo e indirecto y entre DATA y OFFSET DATA.
+
+Otro detalle fue que al hacer las sumas con DS x 10H + BX + SI me equivoqué en hexadecimal, pero después de volver a hacerlo con más calma ya salieron bien todos los ejercicios.
 
 ---
 ## Reflexión final 
